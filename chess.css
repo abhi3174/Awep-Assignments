@@ -1,0 +1,24 @@
+body,html{
+
+    background:#42eff5 ;
+
+}
+.black{
+    background: grey;
+    flex: 1;
+    height: 70px;
+    width: 100px;
+    font-size:50px;
+    text-align: center;
+}
+.white{
+    background: white;
+    flex: 1;
+    height: 70px;
+    width: 100px;
+    font-size:50px;
+    text-align: center;
+}
+.board{
+    border:17px solid black;
+}

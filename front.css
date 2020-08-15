@@ -1,0 +1,29 @@
+html,body{
+    margin: 0;
+}
+.parent{
+        display: flex;
+        background:burlywood;
+        flex-direction: column;
+        height: 100vh;
+        /*background: url("bhagavadgita-6s.jpg");*/
+        background: url("https://picsum.photos/id/1019/1200/1200");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        color: white;
+        
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+}
+.Middle{
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    font-size: 25px;
+    padding: 5px;
+}
